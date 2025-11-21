@@ -1,0 +1,18 @@
+
+        Benchmark Results for: http://localhost:3001/mock-response-with-schema
+        ------------------------------------------------
+        Duration: 11.01s
+        Connections: 200
+        Date: 2025-11-21T14:15:16.516Z
+
+        Stat         2.5%    50%    97.5%    99%    Avg     Stdev    Max
+        Latency      2     2    2    2    2.03   2.31   311
+        Req/Sec      71423     77119    78399    78399    76418.91   1874.74   78349
+        Bytes/Sec    68288511     73727999    74907647    74907647    73051787.64   1786670.11   74901644
+
+        Total Requests: 840564
+        Total 2xx Responses: 840564
+        Total non2xx Reponses:   0
+        Timeouts:       0
+        ------------------------------------------------
+        

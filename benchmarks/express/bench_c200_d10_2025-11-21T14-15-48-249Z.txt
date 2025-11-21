@@ -1,0 +1,18 @@
+
+        Benchmark Results for: http://localhost:3000/mock-response
+        ------------------------------------------------
+        Duration: 10.01s
+        Connections: 200
+        Date: 2025-11-21T14:15:48.250Z
+
+        Stat         2.5%    50%    97.5%    99%    Avg     Stdev    Max
+        Latency      0     0    0    0    0   0   0
+        Req/Sec      0     0    0    0    0   0   0
+        Bytes/Sec    0     0    0    0    0   0   0
+
+        Total Requests: 0
+        Total 2xx Responses: 0
+        Total non2xx Reponses:   0
+        Timeouts:       0
+        ------------------------------------------------
+        
